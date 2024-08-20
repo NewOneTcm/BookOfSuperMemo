@@ -2,7 +2,7 @@
 ##  Chapter 1: 什么是SuperMemo
  **1.1 背景与历史**
    - 1.1.1 SuperMemo的起源与发展
-   - 1.1.2 创始人Piotr Wozniak的故事
+   - 1.1.2 [创始人Piotr Wozniak的故事](创始人Piotr Wozniak的故事.md)
    - 1.1.3 记忆与学习的科学基础
 
  **1.2 SuperMemo的核心理念**
