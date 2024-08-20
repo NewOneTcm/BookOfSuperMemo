@@ -1,4 +1,4 @@
-# BookOfSuperMemo大纲
+# SuperMemo介绍大纲
 ##  Chapter 1: 什么是SuperMemo
  **1.1 背景与历史**
    - 1.1.1 SuperMemo的起源与发展
